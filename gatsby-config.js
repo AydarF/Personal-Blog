@@ -13,6 +13,7 @@ module.exports = {
         pageTransitionDelay: 0,
       },
     },
+    'gatsby-plugin-transition-link',
     'gatsby-plugin-emotion',
     'gatsby-plugin-react-helmet',
     'gatsby-transformer-sharp',
