@@ -20,7 +20,7 @@
     "@mdx-js/react": "^1.5.1",
     "d3": "^5.15.0",
     "eslint-utils": "^1.4.3",
-    "gatsby": "^2.13.50",
+    "gatsby": "^2.32.13",
     "gatsby-background-image": "^0.8.18",
     "gatsby-image": "^2.2.31",
     "gatsby-plugin-emotion": "^4.1.13",
